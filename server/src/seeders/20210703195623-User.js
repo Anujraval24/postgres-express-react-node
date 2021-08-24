@@ -19,7 +19,7 @@ module.exports = {
 					lastName: 'admin',
 					email: 'superadmin@mailinator.com',
 					role: 'ADMIN',
-					isActive: 1,
+					isActive: true,
 					createdAt: new Date(),
 					updatedAt: new Date(),
 				},

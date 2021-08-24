@@ -1,8 +1,8 @@
-# mysql-express-react-node
+# postgres-express-react-node
 
-> MySQL ( Sequelize ORM ) + Express JS + React JS ( Tailwind CSS + Typescript ) + Node JS
+> PostgreSQL ( Sequelize ORM ) + Express JS + React JS ( Tailwind CSS + Typescript ) + Node JS
 
-### Steps to run mysql-express-react-node-backend
+### Steps to run postgres-express-react-node-backend
 
 1. yarn add global sequelize-cli
 2. yarn
@@ -10,7 +10,7 @@
 4. cp .env .env-example
 5. yarn dev
 
-##### Config MYSQL | Sequelize
+##### Config PostgreSQL | Sequelize
 
 1. npx sequelize-cli init
 2. npx sequelize-cli db:create
